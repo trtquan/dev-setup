@@ -20,5 +20,6 @@ rm -rf ~/.vscode/extensions
 
 code --install-extension esbenp.prettier-vscode
 code --install-extension eamodio.gitlens
-code --install-extension  techer.open-in-browser
+code --install-extension techer.open-in-browser
 code --install-extension wayou.vscode-todo-highlight
+code --install-extension streetsidesoftware.code-spell-checker
