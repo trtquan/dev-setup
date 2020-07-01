@@ -23,3 +23,5 @@ code --install-extension eamodio.gitlens
 code --install-extension techer.open-in-browser
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin
+code --install-extension coenraads.bracket-pair-colorizer-2
